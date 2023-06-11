@@ -1,2 +1,2 @@
 # Flask_Marketing-System
-A marketing system built with Flask
+A marketing system with a Flask-based backend and frontend built with bootstrap.
